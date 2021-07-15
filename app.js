@@ -1,3 +1,4 @@
+alert ("Hello world")
 var name = prompt("Hello !! what is your name")
 
 alert("hey, wlecome to my website " + name )
