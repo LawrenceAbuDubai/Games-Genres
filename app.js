@@ -1,7 +1,7 @@
 alert ("Hello world")
 var name = prompt("Hello 😀!! what is your name")
 
-alert("hey, wlecome to my website " + name )
+alert("hey!! , wlecome to my website " + name )
 
 var favGenre = prompt("what is you fav game genre? sports , RPG , action ?")
 
